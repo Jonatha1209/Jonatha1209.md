@@ -10,3 +10,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=knen)](https://solved.ac/knen)</br>
 <img src="http://mazandi.herokuapp.com/api?handle=knen&theme=warm"/>
+
+# My github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatha1209)](https://github.com/Jonatha1209/github-readme-stats)
